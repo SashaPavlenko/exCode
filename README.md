@@ -1,21 +1,21 @@
-# Примеры кода на разных языках программирования
+# Examples of code in different programming languages
 ##### Python
-- Реализация численного интегрирования и решения дифференциального уравнения
-- Задача с курсеры для практики ООП
-- Просто красивое построение фрактала на питоне
+- Realization of numerical integration and solution of differential equation
+- Tasks from Coursera which include OOP practice
+- Just beautiful fractal construction in python
 
 ##### Java
-- Реализация стека
+- Stack Implementation
 
 ##### SQL
-- Запросы
-- Подзапросы
+- Queries
+- Subqueries
 - join
 - procedures
 - cursors
 - triggers
+- 
 ##### C++
-- Реализация множества на бинарном дереве
-- Реализация обхода в ширину графа
-- Распаралленное умножение матриц при помощи пакета OpenMP
-
+- Realization of a set on a binary tree
+- Realization of graph width traversal
+- Parallel matrix multiplication with OpenMP package (Parallel programming)
